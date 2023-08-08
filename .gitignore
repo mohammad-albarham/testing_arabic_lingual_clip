@@ -1,0 +1,7 @@
+.env/
+data/
+content/*
+*.gz
+*.pkl
+*.index
+*.data*
